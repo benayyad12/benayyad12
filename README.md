@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm abdessalam benayyad</h1>
+![](image.png)
 <h3 align="center">A passionate Computer science student at 𝙣𝙖𝙩𝙞𝙤𝙣𝙖𝙡 𝙨𝙘𝙝𝙤𝙤𝙡 𝙤𝙛 𝙘𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙨𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙣𝙙 𝙨𝙮𝙨𝙩𝙚𝙢𝙨 𝙖𝙣𝙖𝙡𝙮𝙨𝙞𝙨 🅴🅽🆂🅸🅰🆂</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benayyad12&label=Profile%20views&color=0e75b6&style=flat" alt="benayyad12" /> </p>
@@ -13,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdessalam benayyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdessalam benayyad" height="30" width="40" /></a>
-<a href="https://discord.gg/3212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3212" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdessalam-benayyad-494142201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdessalam benayyad" height="30" width="40" /></a>
+<a href="https://discord.gg/#3212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3212" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
