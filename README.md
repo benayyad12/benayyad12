@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I'm abdessalam benayyad !</h1>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/79119027/131124416-66dc7101-211c-40d2-be0d-ed3c818a3d22.gif?raw=true" width="auto" height="auto" />
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/79119027/131127677-118392d6-2f79-4909-9793-9ef92f9900f1.gif?raw=true" width="auto" height="auto" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benayyad12&label=Profile%20views&color=0e75b6&style=flat" alt="benayyad12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benayyad12" alt="benayyad12" /></a> </p>
