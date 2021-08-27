@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm abdessalam benayyad !</h1>
+<h1 align="center"> 𝑯𝒆𝒍𝒍𝒐 👋, 𝑰'𝒎 𝒂𝒃𝒅𝒆𝒔𝒔𝒂𝒍𝒂𝒎 𝒃𝒆𝒏𝒂𝒚𝒚𝒂𝒅 </h1>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/79119027/131127677-118392d6-2f79-4909-9793-9ef92f9900f1.gif?raw=true" width="auto" height="auto" />
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abdessalam_benayyad@um5.ac.ma**
 
-<h3 align="left">Connect with me :</h3>
+<h3 align="left"> 𝓡𝓮𝓪𝓬𝓱 𝓶𝓮 𝓸𝓾𝓽 :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdessalam-benayyad-494142201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdessalam benayyad" height="30" width="40" /></a>
 </p>
