@@ -1,6 +1,6 @@
 <h1 align="center"> 𝑯𝒆𝒍𝒍𝒐 👋, 𝑰'𝒎 𝒂𝒃𝒅𝒆𝒔𝒔𝒂𝒍𝒂𝒎 𝒃𝒆𝒏𝒂𝒚𝒚𝒂𝒅 </h1>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/79119027/131127677-118392d6-2f79-4909-9793-9ef92f9900f1.gif?raw=true" width="auto" height="auto" />
+<img align="right"  src="https://images.unsplash.com/photo-1587691592099-24045742c181?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1652&q=80" width="auto" height="auto" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benayyad12&label=Profile%20views&color=0e75b6&style=flat" alt="benayyad12" /> </p>
 
